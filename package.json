@@ -36,6 +36,9 @@
 		"npm-cache-filename": "^1.0.0",
 		"ini": "^1.2.0",
 		"osenv": "^0.1.0",
-		"github-url-from-git": "1.3.0"
+		"github-url-from-git": "1.3.0",
+		"mongodb": "2.1.0",
+		"ep_glorantha_runes": "https://github.com/jrutila/ep_glorantha_runes.git",
+		"ep_mythic": "https://github.com/jrutila/ep_mythic.git"
   }
 }
